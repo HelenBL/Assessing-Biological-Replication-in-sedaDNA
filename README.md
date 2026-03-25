@@ -3,7 +3,8 @@
 This repository contains the data and R scripts used to analyse the contribution of biological and technical replication in sedimentary ancient DNA (sedaDNA) metabarcoding datasets. The study compares mitochondrial (COI) and nuclear (18S) markers across intertidal sediment cores, integrating diversity analyses, community ordination, PERMANOVA, and hierarchical modelling of species communities (HMSC). All scripts required to reproduce the figures, statistical analyses, and supplementary datasets are provided.
 
 
-## 📁 Repository structure
+## 📁 Repository structure:
+
 - data/ # Input data tables (metadata, abundance tables)
 - scripts/ # R scripts for data processing and analyses
 - supplementary/ # Supplementary tables and additional outputs
