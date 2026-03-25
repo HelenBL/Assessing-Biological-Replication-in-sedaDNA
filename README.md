@@ -4,9 +4,9 @@ This repository contains the data and R scripts used to analyse the contribution
 
 
 ## 📁 Repository structure
-data/ # Input data tables (metadata, abundance tables)
-scripts/ # R scripts for data processing and analyses
-supplementary/ # Supplementary tables and additional outputs
+- data/ # Input data tables (metadata, abundance tables)
+- scripts/ # R scripts for data processing and analyses
+- supplementary/ # Supplementary tables and additional outputs
 
 ---
 
